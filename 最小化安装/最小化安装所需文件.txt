@@ -7,7 +7,6 @@ pcre-devel openssl  openssl-devel zip unzip zlib-devel  net-tools \
 lrzsz tree ntpdate telnet lsof tcpdump wget libevent libevent-devel \
 bc  systemd-devel bash-completion traceroute -y
 
-1111
 
 vim reset.sh
 cat << EOF
